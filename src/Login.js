@@ -27,6 +27,7 @@ function Login() {
                 </div>
                 <Button type="submit" onClick={signIn}>Sign in With Google</Button>
            </div>
+           <h3>Design by Alan Binu 💝</h3>
         </div>
     );
 }

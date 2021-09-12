@@ -1,5 +1,6 @@
 .login{
-    background-color: #f8f8f8;
+    background-image: linear-gradient(
+    #0f2027, #2c5364);
     height: 100vh;
     width: 100vw;
     display: grid;
@@ -9,7 +10,7 @@
 .login_container{
     padding: 100px;
     text-align: center;
-    background-color: white;
+    background-color: rgb(104, 89, 89);
     border-radius: 10px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px;
 }
