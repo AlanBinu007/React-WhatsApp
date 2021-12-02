@@ -11,4 +11,4 @@
 
 Credit: Clever Programmer (Rocking Guys)
 
-Checkout demo : https://alanbinu-discord.web.app/
+Checkout demo : https://alanbinu-whatsapp.web.app/
