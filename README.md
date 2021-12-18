@@ -1,14 +1,36 @@
-# Build a WhatsApp Clone with React JS, FireBase and Google Authentication
 
-# Tech Stack
-- React js
-- Firebase Firestore Realtime DB
-- Material UI
-- React Router
-- React Context API
-- Redux
-- Google Authentication
+# Whatsapp - Messaging App
 
-Credit: Clever Programmer (Rocking Guys)
+**Project Link** - ***https://alanbinu-whatsapp.web.app/***
 
-Checkout demo : https://alanbinu-whatsapp.web.app/
+## Tech We Used
+
+- ReactJs
+- Firebase Hosting
+- Firebase Auth
+- Firebase Storage
+- React-Dom
+- React Redux
+
+## Features
+
+- Login and Logout
+- Send Message
+- Make Group
+- Neat and clean UI
+
+## Steps to run in your machine
+
+#### Run the following commands
+```
+npm i
+npm run start
+```
+
+
+
+
+#### Hope you liked this project, dont forget to ⭐ the repo.
+
+
+
